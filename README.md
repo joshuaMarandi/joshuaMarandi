@@ -11,7 +11,7 @@ Top programming lang Used
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmwangomo&show_icons=true&locale=en&layout=compact" alt="gmwangomo" />
 </p>
 
-### 👋 Hi, I’m Gwakisa Mwangomo
+### 👋 Hi, I’m Joshua Marandi
 - 👀 I’m interested in coding especial in Web development and App Development.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on coding and improving skills in the programming languages 
