@@ -66,7 +66,7 @@ English <br/>
 Swahili
 
 ## PROFILE VIEWS
-![Profile Views](https://komarev.com/ghpvc/?username=gmwangomo)
+![Profile Views](https://komarev.com/ghpvc/?username=joshuaMarandi)
 
 <!---
 
