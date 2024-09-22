@@ -8,7 +8,7 @@
 Top programming lang Used
 --->
 <p aligin="right">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmwangomo&show_icons=true&locale=en&layout=compact" alt="gmwangomo" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuaMarandi&show_icons=true&locale=en&layout=compact" alt="joshuaMarandi" />
 </p>
 
 ### 👋 Hi, I’m Joshua Marandi
