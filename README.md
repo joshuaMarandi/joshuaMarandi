@@ -35,17 +35,12 @@ Top programming lang Used
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JS](https://img.shields.io/badge/JavaScript-61DAFB?style=for-the-badge&logo=javascript&logoColor=white)
-  ![Vue](https://img.shields.io/badge/Vuejs-61DAFB?style=for-the-badge&logo=vuejs&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind-7952B3?style=for-the-badge&logo=tailwind&logoColor=white)
 
 **Backend:**  
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-092E20?style=for-the-badge&logo=fastapi&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-092E20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-
 
 **Database:**  
   ![MySQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
