@@ -57,7 +57,7 @@ Top programming lang Used
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=joshuaMarandi&theme=dracula](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=joshuaMarandi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🌍 Languages 
