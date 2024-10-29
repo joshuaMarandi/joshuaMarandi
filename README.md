@@ -56,7 +56,7 @@ Top programming lang Used
   ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
+**Github Trophies:**  
 [![trophy](https://github-profile-trophy.vercel.app/?username=joshuaMarandi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
