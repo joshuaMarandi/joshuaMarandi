@@ -56,6 +56,10 @@ Top programming lang Used
   ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=joshuaMarandi&theme=dracula](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 🌍 Languages 
 English <br/>
 Swahili
