@@ -1,108 +1,133 @@
-<!---
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmwangomo&show_icons=true&hide_border=true" align="right">
-</p>
---->
-
-<!--
-Top programming lang Used
---->
-<p aligin="right">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuaMarandi&show_icons=true&locale=en&layout=compact" alt="joshuaMarandi" />
+<!-- ===================== HEADER BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Joshua%20Marandi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20App%20Developer&descSize=22&descAlignY=60" alt="Joshua Marandi banner" />
 </p>
 
-### 👋 Hi, I’m Joshua Marandi
-- 👀 I’m interested in coding especial in Web development and App Development.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on coding and improving skills in the programming languages 
-- 📫 How to reach me : [Here](mailto:marandijoshua07@gmail.com)
-- ⚡ Hobbies: ...
-- 😄 Pronouns: He/Him
+<!-- ===================== TYPING ANIMATION ===================== -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Joshua;Full-Stack+Web+Developer;Building+modern+apps+with+clean+code;Let's+build+something+great+together+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ===================== SOCIAL BADGES ===================== -->
+<p align="center">
+  <a href="mailto:marandijoshua07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/joshuaMarandi">
+    <img src="https://img.shields.io/badge/GitHub-joshuaMarandi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=joshuaMarandi&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+</p>
 
-## 🔧 Technologies & Tools
-<!---
-<img alt="Javascript" align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img alt="Node.js"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img alt="React.js" align="left"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img alt="React Native" align="left"  src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
---->
+---
 
-**Frontend:**  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JS](https://img.shields.io/badge/JavaScript-61DAFB?style=for-the-badge&logo=javascript&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind-7952B3?style=for-the-badge&logo=tailwind&logoColor=white)
+## 👨‍💻 About Me
 
-**Backend:**  
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-092E20?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-092E20?style=for-the-badge&logo=laravel&logoColor=white)
+<table>
+<tr>
+<td width="60%">
 
-**Database:**  
-  ![MySQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+```js
+const joshua = {
+  name: "Joshua Marandi",
+  role: "Web & App Developer",
+  languages: ["English", "Swahili"],
+  pronouns: "He/Him",
+  focus: ["Web Development", "App Development"],
+  lookingFor: "Collaboration & growth 🤝",
+  motto: "Write code that people love to use ✨",
+};
+```
 
- 
+</td>
+<td width="40%">
 
-**Version Control:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 👀 Passionate about **web & app development**
+- 🌱 Always learning and improving my craft
+- 💞️ Open to **collaborating** on exciting projects
+- 📫 Reach me: [marandijoshua07@gmail.com](mailto:marandijoshua07@gmail.com)
+- 🌍 Speaks **English** & **Swahili**
 
-**Other Tools:**  
-  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</td>
+</tr>
+</table>
 
-**Github Trophies:**  
-[![trophy](https://github-profile-trophy.vercel.app/?username=joshuaMarandi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
+## 🔧 Tech Stack
 
-## 🌍 Languages 
-English <br/>
-Swahili
+<p align="center">
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" alt="Frontend" />
+</p>
 
-## PROFILE VIEWS
-![Profile Views](https://komarev.com/ghpvc/?username=joshuaMarandi)
+<p align="center">
+  <b>Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,python&theme=dark" alt="Backend" />
+</p>
 
-<!---
+<p align="center">
+  <b>Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases" />
+</p>
 
-Adding the details on the techstaff i used
+<p align="center">
+  <b>Tools & Version Control</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
+</p>
 
-## Tech Stack
+---
 
-- **Frontend:**  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 📊 GitHub Stats
 
-- **Backend:**  
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-092E20?style=for-the-badge&logo=django&logoColor=white)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joshuaMarandi&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaMarandi&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+</p>
 
-- **Database:**  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuaMarandi&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-- **Mobile App Development:**  
-  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshuaMarandi&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
-- **Version Control:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
 
-- **Other Tools:**  
-  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
---->
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=joshuaMarandi&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
+  </a>
+</p>
 
-<!---
-gmwangomo/gmwangomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  Have an idea, project, or just want to say hi? I'd love to hear from you!
+</p>
+
+<p align="center">
+  <a href="mailto:marandijoshua07@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20me%20an%20email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+  </a>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" />
+</p>
